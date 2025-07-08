@@ -21,7 +21,7 @@ A fully responsive and professionally designed emailer for the fictional wellnes
 
 ## 🚀 Live Demo
 
-[🔗 View ZenAura Emailer (GitHub Pages)](https://your-username.github.io/zenaura-emailer/)
+[[🔗 View ZenAura Emailer (GitHub Pages)](https://your-username.github.io/zenaura-emailer/)](https://github.com/Lastav-d/zenaura-emailer)
 
 > *Replace the above link with your real GitHub Pages URL after upload*
 
